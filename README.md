@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anisha</h1>
-<h3 align="center">A passionate IT analyst from India</h3>
 
 - 🎓 I’m pursuing Masters in👩🏻‍💻 **Data Analytics & Information systems**
 
-- 👩🏻‍💻 I have **8 years of work experience as an IT Analyst**
+- 👩🏻‍💻 I have **8 years of work experience as a Data Professional**
 
 - 📫 How to reach me **anisha.csa@gmail.com**
 
