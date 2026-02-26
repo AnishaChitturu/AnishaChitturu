@@ -3,7 +3,7 @@
 
 - 🎓 I’m pursuing Masters in👩🏻‍💻 **Data Analytics & Information systems**
 
-- 👩🏻‍💻 I have **6 years of work experience as an IT Analyst**
+- 👩🏻‍💻 I have **8 years of work experience as an IT Analyst**
 
 - 📫 How to reach me **anisha.csa@gmail.com**
 
